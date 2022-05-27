@@ -5,6 +5,7 @@ import styles from './Button.module.css';
 export const Button = ({ text, handleButton, padding }) => {
 	const { newTheme } = React.useContext(ThemeContext);
 	return (
+		// hw
 		<button
 			style={{
 				color: `${newTheme.title}`,
