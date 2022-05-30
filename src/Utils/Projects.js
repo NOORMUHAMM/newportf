@@ -5,7 +5,7 @@ export const projects = [
 		des: 'A Quiz app that tests your knowledge based on your preferred stack topic, and analyses results. A comprehensive report is presented at the end of each quiz.',
 		demo: '',
 		live: 'https://refresh.masai.tech/quiz_topics',
-		gitHub: 'https://github.com/masai-oss/Masai_Refresh.git',
+		gitHub: 'https://github.com/',
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'javaScript'],
 	},
 	{
@@ -14,7 +14,7 @@ export const projects = [
 		des: 'BookMyShow website is basically for entertainment purposes, In this app, a user can book movie tickets by choosing the different theatres and timings accordingly. The user also can see some events happening around them and can attend the events.',
 		demo: '',
 		live: 'https://bookmyshow-clone-masaischool.netlify.app/',
-		gitHub: 'https://github.com/arshadalitalwar/bookmyshow.git',
+		gitHub: 'https://github.com/',
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'javaScript'],
 	},
 	{
@@ -23,7 +23,7 @@ export const projects = [
 		des: 'A ToDo application made using React, Redux and a few libraries, wherein the user can add a new task, change the status, edit it, edit sub-task and delete it.',
 		demo: '',
 		live: 'https://him-todo.netlify.app/',
-		gitHub: 'https://github.com/himrd95/todo.git',
+		gitHub: 'https://github.com/',
 		technologies: ['React', 'Redux', 'HTML', 'CSS', 'javaScript'],
 	},
 	{
@@ -32,7 +32,7 @@ export const projects = [
 		des: 'Clone of a blogging web application, Medium where a user can read the blogs written by others and show their response also, one can share their thoughts by posting a blog.',
 		demo: '',
 		live: 'https://medium-web.netlify.app/',
-		gitHub: 'https://github.com/himrd95/Medium-Clone.git',
+		gitHub: 'https://github.com/',
 		technologies: ['React', 'HTML', 'CSS', 'javaScript'],
 	},
 	{
@@ -41,7 +41,7 @@ export const projects = [
 		des: 'This is a clone of the Fitness Blender website. The clone is complete with a Login page, Sign-in page, Shopping Cart, Wishlist and Calendar Scheduling feature. Following is the link to the clone of the website.',
 		demo: '',
 		live: 'https://anshusagar.github.io/FitnessBlender/',
-		gitHub: 'https://github.com/Anshusagar/FitnessBlender.git',
+		gitHub: 'https://github.com/',
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
 	{
@@ -50,7 +50,7 @@ export const projects = [
 		des: 'This is a static clone of a website called Mailchimp. This clone includes landing, pricing, our story, and the resources page.',
 		demo: '',
 		live: 'https://mandarsatam.github.io/Mailchimp-Clone/',
-		gitHub: 'https://github.com/mandarsatam/Mailchimp-Clone',
+		gitHub: 'https://github.com/',
 		technologies: ['HTML', 'CSS', 'javaScript'],
 	},
 ];
